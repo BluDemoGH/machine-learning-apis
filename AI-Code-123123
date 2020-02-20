@@ -79,9 +79,9 @@ class MyButton extends JButton {
     }
 }
 
-// bitbucKet-app_pwd := "YpHdUSPAB9aDNuwVq8uK"
+ bitbucKet-app_pwd := "YpHdUSPAB9aDNuwVq8uK"
 
-// DROPBOX_APP_KEY: "4fyyzx73aeeouuy"
+ DROPBOX_APP_KEY: "4fyyzx73aeeouuy"
 
 public class PuzzleEx extends JFrame {
 
